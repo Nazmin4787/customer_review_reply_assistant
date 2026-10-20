@@ -1,2 +1,3 @@
 # customer_review_reply_assistant
-Streamlit app that finds the most critical 1-2 star customer reviews, classifies each complaint with an LLM (category, urgency, summary) and drafts a safe reply. Replies are cleaned of promises, then a person edits and approves them before download.
+**Live demo:** https://review-reply-assistant.streamlit.app
+The demo needs your own free API key (Groq, Hugging Face or Gemini). Paste it in the sidebar. It is used only for your session.
